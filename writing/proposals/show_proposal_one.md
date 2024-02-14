@@ -27,11 +27,12 @@
 **IMPORTANT:** If you do not type the required sentence, then the course instructor will not know that you adhered to the Allegheny College Honor Code while completing the project.
 
 ## 🏁
+
 Provide a compelling sentence that summarizes and pitches your podcast episode.
 
 ## 🔬 Show Details
 
-- **Title**: Nothing Major 
+- **Title**: Nothing Major
 - **Host**: Ervin Myree
 - **Guest**: Erin O'Day
 

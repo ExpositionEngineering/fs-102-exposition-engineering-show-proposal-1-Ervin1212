@@ -18,13 +18,13 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+Ervin Myree
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
 TODO: You must retype the sentence here in order to digitally sign your pledge.
 
-
+yoooo
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -56,7 +56,7 @@ TODO: Provide a list of of at least three objectives for the podcast episode.
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
+Do you know what youre intrested in for like a long term job?  Provide a list of of at least three sample questions that the host will
 ask the guest.
 
 TODO: Provide a justification for why asking this question will achieve one of

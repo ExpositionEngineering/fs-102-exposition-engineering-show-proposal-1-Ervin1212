@@ -21,9 +21,10 @@
 Ervin Myree
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
-I adhered to the allegheny colloge honor code while completing this project.
+
  You must retype the sentence here in order to digitally sign your pledge.
 
+I adhered to the allegheny colloge honor code while completing this project.
 
 
 **IMPORTANT:** If you do not type the required sentence then the course
@@ -70,8 +71,9 @@ the stated objectives for the podcast episode.
 
 ## 🎉 Show Description
 
- Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+ Write at least three to five paragraphs that describe the content of the episode, ensuring that the description is both engaging and informative.
+
+
 During my episode basically what i will be doing is talking to Mrs. Erin about how to get new colloge students to start there intrest or get a gist in finding what they want to do to so they can know what they want to do for there major then there profession and this is all on where Mrs.Erin starts you to guide you to be succeful because i know the earlier you know what you want to do is more than helpful excepcially as a freshman because from hearing from pears and people that are my elders they say the further you get into colloge without knowing what your there for is more than stressful because your so deep in. So as a freshman and being new to colloge knowing what you want to do is such a good start or even having a idea of what your intrested in is very good to a lead to your major and even your minor. 
 
 During this episode im also gonna be asking Mrs. Erin how she helps freshmen or new colloge students how she helps them chose there mjor or even how she guides them with so many majors out there to chose from and how discipline it can be. What i mean by discpline is making these young studnets chose something that theyll be paying for even studying for usally for four whole years and thats a very big descion for someone to pick because this someones future and profession your helping them pick. Thats nothing to play with and as a teacher in her perspectie i would want to know how she does that for her students / new colloge studnets. 
@@ -92,9 +94,9 @@ conference proceedings that you studied when preparing this proposal.
  Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
 
-- **Reference One**: https://cdc.indiana.edu/career-coaching/podcast.html
-- **Reference Two**:https://www.onlineu.com/magazine/higher-ed-career-podcasts
-- **Reference Three**:  https://amplify.matchmaker.fm/what-makes-a-good-podcast/
+- **Reference One**: [Major resources](https://cds.indiana.edu/career-coaching/podcast.html)
+- **Reference Two**: [9 higher ed and carrer podcast we love](https://www.onlineu.com/magazine/higher-ed-career-podcasts)
+- **Reference Three**: [What Makes a Good Podcast? 11 Expert Tips for Success](https://amplify.matchmaker.fm/what-makes-a-good-podcast/)
 
  If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools

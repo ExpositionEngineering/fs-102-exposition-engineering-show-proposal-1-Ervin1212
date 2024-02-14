@@ -22,12 +22,9 @@
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
- You must retype the sentence here in order to digitally sign your pledge.
+"I adhered to the allegheny colloge honor code while completing this project."
 
-I adhered to the allegheny colloge honor code while completing this project.
-
-I adhered to the allegheny colloge honor code while completing this project.
-
+"I adhered to the allegheny colloge honor code while completing this project."
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -35,15 +32,10 @@ while completing the project.
 
 ## 🏁 
 
- Provide a compelling sentence that summarizes and pitches your podcast
+  Provide a compelling sentence that summarizes and pitches your podcast
 episode.
 
 ## 🔬 Show Details
-
-
-
-
-
 
 - **Title**: Nothing Major 
 - **Host**: Ervin Myree
@@ -51,12 +43,12 @@ episode.
 
 ## 📝 Show Objectives
 
-
 - **Objective One**: Helping new colloge students find what they want to do.
 - **Objective Two**: Help find the colloge studnets most intrest in what they like to do. 
 - **Objective Three**: How to find new colloge studnets major or give them a gist of what they would like to do  if they dont know in that exact moment in time. 
 
 ## 📚 Sample Questions
+
 Do you know what youre intrested in for like a long term job?  Provide a list of of at least three sample questions that the host will
 ask the guest.
 
@@ -83,6 +75,7 @@ During this episode im also gonna be asking Mrs. Erin how she helps freshmen or 
 This episode aslo will include on how students can chose how they can find the right people to go find that teahes there major or not even teach but also show them what its like and also show them the fields so they can see what its all about beofre getting themselves into what they dont know what there getting themselves into. thats what my episodes will be about. 
 
 ## 📢 Call to Action
+
 After, listening to my podcast i would like new colloge students to understand that the sooner you have a gist of what you would like to major in the next 4 years of your life will be more than helpful and less stressful and helps you get to them classes you need to take and you will already have a plan ahead of time youll be ahead of what you know you need to do. But, also its ok that if you dont know what you dont know what you would like to do there are people around to help just like my guest Mrs. Erin. 
  After a person listens to this episode what do you want them to do?
 

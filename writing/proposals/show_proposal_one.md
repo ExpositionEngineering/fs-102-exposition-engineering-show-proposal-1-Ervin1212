@@ -18,7 +18,7 @@
 
 <!---toc end-->
 
-Ervin Myree
+## Ervin Myree
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 

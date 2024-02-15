@@ -26,7 +26,7 @@
 
 **IMPORTANT:** If you do not type the required sentence, then the course instructor will not know that you adhered to the Allegheny College Honor Code while completing the project.
 
-## 🏁
+## 🏁 One Sentence Pitch 
 
 Provide a compelling sentence that summarizes and pitches your podcast episode.
 
@@ -70,8 +70,8 @@ After listening to my podcast, I would like new college students to understand t
 
 ## 🦜 References
 
-- **Reference One**: [Major resources]<https://cds.indiana.edu/career-coaching/podcast.html>
-- **Reference Two**: [9 higher ed and career podcasts we love]<https://www.onlineu.com/magazine/higher-ed-career-podcasts>
+- **Reference One**: [Major resources] <https://cds.indiana.edu/career-coaching/podcast.html>
+- **Reference Two**: [9 higher ed and career podcasts we love] <https://www.onlineu.com/magazine/higher-ed-career-podcasts>
 - **Reference Three**: [What Makes a Good Podcast? 11 Expert Tips for Success]<https://amplify.matchmaker.fm/what-makes-a-good-podcast/>
 
 If you used any type of artificial intelligence (AI) writing assistant tools, please add an additional paragraph that explains clearly specific tools you used, how you used them, and what content they helped you to brainstorm, write, or revise. While the use of AI writing assistants is permitted as a part of the Exposition Engineering course, it is important for you to clearly cite all of the tools that you used to create the content in this proposal.

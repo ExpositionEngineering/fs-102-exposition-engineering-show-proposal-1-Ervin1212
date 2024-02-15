@@ -26,7 +26,7 @@
 
 **IMPORTANT:** If you do not type the required sentence, then the course instructor will not know that you adhered to the Allegheny College Honor Code while completing the project.
 
-## 🏁 One Sentence Pitch 
+## 🏁 One Sentence Pitch
 
 Provide a compelling sentence that summarizes and pitches your podcast episode.
 

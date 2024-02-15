@@ -8,7 +8,7 @@
 * [✨ Table of Contents](#-table-of-contents)
 * [Ervin Myree] (#ervin-l-myree)
 * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
-* [🏁 One Sentence Pitch] (#-one-sentence-pitch)
+* [🏁 One Sentence Pitch](#-one-sentence-pitch)
 * [🔬 Show Details](#-show-details)
 * [📝 Show Objectives](#-show-objectives)
 * [📚 Sample Questions](#-sample-questions)
@@ -70,7 +70,7 @@ This episode will also include on how students can choose how they can find the 
 
 ## 🦜 References
 
-- **Reference One**: [Major resources](https://cds.indiana.edu/career-coaching/podcast.html>)
+- **Reference One**: [Major resources](https://cds.indiana.edu/career-coaching/podcast.html)
 - **Reference Two**: [9 higher ed and career podcasts we love](https://www.onlineu.com/magazine/higher-ed-career-podcasts)
 - **Reference Three**: [What Makes a Good Podcast? 11 Expert Tips for Success](https://amplify.matchmaker.fm/what-makes-a-good-podcast/)
 

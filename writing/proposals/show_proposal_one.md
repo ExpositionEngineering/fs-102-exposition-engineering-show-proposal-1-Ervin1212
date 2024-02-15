@@ -6,7 +6,7 @@
 
 * [Show Proposal One](#show-proposal-one)
 * [✨ Table of Contents](#-table-of-contents)
-* [Gregory M. Kapfhammer] (#gregory-m-kapfhammer)
+* [Ervin Myree] (#ervin-l-myree)
 * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
 * [🏁 One Sentence Pitch] (#-one-sentence-pitch)
 * [🔬 Show Details](#-show-details)
@@ -70,8 +70,8 @@ This episode will also include on how students can choose how they can find the 
 
 ## 🦜 References
 
-- **Reference One**: [Major resources] <https://cds.indiana.edu/career-coaching/podcast.html>
-- **Reference Two**: [9 higher ed and career podcasts we love] <https://www.onlineu.com/magazine/higher-ed-career-podcasts>
-- **Reference Three**: [What Makes a Good Podcast? 11 Expert Tips for Success]<https://amplify.matchmaker.fm/what-makes-a-good-podcast/>
+- **Reference One**: [Major resources](https://cds.indiana.edu/career-coaching/podcast.html>)
+- **Reference Two**: [9 higher ed and career podcasts we love](https://www.onlineu.com/magazine/higher-ed-career-podcasts)
+- **Reference Three**: [What Makes a Good Podcast? 11 Expert Tips for Success](https://amplify.matchmaker.fm/what-makes-a-good-podcast/)
 
 If you used any type of artificial intelligence (AI) writing assistant tools, please add an additional paragraph that explains clearly specific tools you used, how you used them, and what content they helped you to brainstorm, write, or revise. While the use of AI writing assistants is permitted as a part of the Exposition Engineering course, it is important for you to clearly cite all of the tools that you used to create the content in this proposal.

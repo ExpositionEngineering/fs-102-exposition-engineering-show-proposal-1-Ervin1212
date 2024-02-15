@@ -66,7 +66,7 @@ This episode will also include on how students can choose how they can find the 
 
 ## 📢 Call to Action
 
-After listening to my podcast, I would like new college students to understand that the sooner you have a gist of what you would like to major in, the next 4 years of your life will be more than helpful and less stressful, helping you get to those classes you need to take, and you will already have a plan ahead of time. You'll be ahead of what you know you need to do. But also, it's okay if you don't know what you would like to do. There are people around to help, just like my guest Mrs. Erin. After a person listens to this episode, what do you want them to do?
+- After listening to my podcast, I would like new college students to understand that the sooner you have a gist of what you would like to major in, the next 4 years of your life will be more than helpful and less stressful, helping you get to those classes you need to take, and you will already have a plan ahead of time. You'll be ahead of what you know you need to do. But also, it's okay if you don't know what you would like to do. There are people around to help, just like my guest Mrs. Erin. After a person listens to this episode, what do you want them to do?
 
 ## 🦜 References
 
